@@ -1,0 +1,1223 @@
+{
+  "catalogName": "Mock Skills Transformation Development Catalog",
+  "version": "1.0",
+  "description": "Synthetic development catalog for prototype and testing purposes. Entries are organized by role and band level.",
+  "bands": [
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "roles": [
+    "Web Developer",
+    "Visual Designer",
+    "Instructional Designer",
+    "Manager",
+    "Application Developer"
+  ],
+  "entryCount": 25,
+  "disclaimer": "All entries, course/activity names, durations, mappings, and evidence requirements are mock data and are not confirmed internal learning offerings.",
+  "entries": [
+    {
+      "catalogId": "DEV-WD-B6-01",
+      "title": "Build an Accessible Responsive Page",
+      "role": "Web Developer",
+      "bandLevel": 6,
+      "capability": "Front-end Foundations",
+      "proficiencyLevel": "Foundational",
+      "activityType": "Project",
+      "description": "A mock development activity for a Band 6 Web Developer focused on front-end foundations.",
+      "completionWindowWeeks": 2,
+      "deliveryMode": "Workplace Application",
+      "provider": "Internal",
+      "sourceCatalog": "Mock Skills Transformation Catalog",
+      "friGapTags": [
+        "front-end foundations",
+        "role capability",
+        "applied development"
+      ],
+      "requiredEvidence": [
+        {
+          "type": "repository_link",
+          "label": "Repository link",
+          "required": true
+        },
+        {
+          "type": "screenshots",
+          "label": "Screenshots",
+          "required": true
+        },
+        {
+          "type": "accessibility_report",
+          "label": "Accessibility report",
+          "required": true
+        }
+      ],
+      "successCriteria": [
+        "Required evidence is complete and relevant",
+        "Output meets the agreed role and band expectations",
+        "Manager or designated reviewer confirms satisfactory application"
+      ],
+      "managerActions": [
+        "Confirm the activity aligns with the employee development goal",
+        "Assign a reviewer or provide feedback",
+        "Validate the submitted evidence"
+      ],
+      "active": true,
+      "syntheticData": true
+    },
+    {
+      "catalogId": "DEV-WD-B7-01",
+      "title": "Create a Reusable UI Component",
+      "role": "Web Developer",
+      "bandLevel": 7,
+      "capability": "Component Development",
+      "proficiencyLevel": "Intermediate",
+      "activityType": "Stretch Assignment",
+      "description": "A mock development activity for a Band 7 Web Developer focused on component development.",
+      "completionWindowWeeks": 3,
+      "deliveryMode": "Workplace Application",
+      "provider": "Internal",
+      "sourceCatalog": "Mock Skills Transformation Catalog",
+      "friGapTags": [
+        "component development",
+        "role capability",
+        "applied development"
+      ],
+      "requiredEvidence": [
+        {
+          "type": "source_code",
+          "label": "Source code",
+          "required": true
+        },
+        {
+          "type": "component_documentation",
+          "label": "Component documentation",
+          "required": true
+        },
+        {
+          "type": "test_results",
+          "label": "Test results",
+          "required": true
+        }
+      ],
+      "successCriteria": [
+        "Required evidence is complete and relevant",
+        "Output meets the agreed role and band expectations",
+        "Manager or designated reviewer confirms satisfactory application"
+      ],
+      "managerActions": [
+        "Confirm the activity aligns with the employee development goal",
+        "Assign a reviewer or provide feedback",
+        "Validate the submitted evidence"
+      ],
+      "active": true,
+      "syntheticData": true
+    },
+    {
+      "catalogId": "DEV-WD-B8-01",
+      "title": "Design Front-end Architecture for a Learning Application",
+      "role": "Web Developer",
+      "bandLevel": 8,
+      "capability": "Application Architecture",
+      "proficiencyLevel": "Advanced",
+      "activityType": "Live Assignment",
+      "description": "A mock development activity for a Band 8 Web Developer focused on application architecture.",
+      "completionWindowWeeks": 4,
+      "deliveryMode": "Workplace Application",
+      "provider": "Internal",
+      "sourceCatalog": "Mock Skills Transformation Catalog",
+      "friGapTags": [
+        "application architecture",
+        "role capability",
+        "applied development"
+      ],
+      "requiredEvidence": [
+        {
+          "type": "architecture_diagram",
+          "label": "Architecture diagram",
+          "required": true
+        },
+        {
+          "type": "design_decisions",
+          "label": "Design decisions",
+          "required": true
+        },
+        {
+          "type": "review_feedback",
+          "label": "Review feedback",
+          "required": true
+        }
+      ],
+      "successCriteria": [
+        "Required evidence is complete and relevant",
+        "Output meets the agreed role and band expectations",
+        "Manager or designated reviewer confirms satisfactory application"
+      ],
+      "managerActions": [
+        "Confirm the activity aligns with the employee development goal",
+        "Assign a reviewer or provide feedback",
+        "Validate the submitted evidence"
+      ],
+      "active": true,
+      "syntheticData": true
+    },
+    {
+      "catalogId": "DEV-WD-B9-01",
+      "title": "Lead a Code Quality and Accessibility Initiative",
+      "role": "Web Developer",
+      "bandLevel": 9,
+      "capability": "Technical Leadership",
+      "proficiencyLevel": "Leadership",
+      "activityType": "Leadership Assignment",
+      "description": "A mock development activity for a Band 9 Web Developer focused on technical leadership.",
+      "completionWindowWeeks": 6,
+      "deliveryMode": "Workplace Application",
+      "provider": "Internal",
+      "sourceCatalog": "Mock Skills Transformation Catalog",
+      "friGapTags": [
+        "technical leadership",
+        "role capability",
+        "applied development"
+      ],
+      "requiredEvidence": [
+        {
+          "type": "baseline_metrics",
+          "label": "Baseline metrics",
+          "required": true
+        },
+        {
+          "type": "implementation_plan",
+          "label": "Implementation plan",
+          "required": true
+        },
+        {
+          "type": "impact_report",
+          "label": "Impact report",
+          "required": true
+        }
+      ],
+      "successCriteria": [
+        "Required evidence is complete and relevant",
+        "Output meets the agreed role and band expectations",
+        "Manager or designated reviewer confirms satisfactory application"
+      ],
+      "managerActions": [
+        "Confirm the activity aligns with the employee development goal",
+        "Assign a reviewer or provide feedback",
+        "Validate the submitted evidence"
+      ],
+      "active": true,
+      "syntheticData": true
+    },
+    {
+      "catalogId": "DEV-WD-B10-01",
+      "title": "Define a Reusable Web Development Framework",
+      "role": "Web Developer",
+      "bandLevel": 10,
+      "capability": "Engineering Strategy",
+      "proficiencyLevel": "Strategic",
+      "activityType": "Strategic Assignment",
+      "description": "A mock development activity for a Band 10 Web Developer focused on engineering strategy.",
+      "completionWindowWeeks": 8,
+      "deliveryMode": "Workplace Application",
+      "provider": "Internal",
+      "sourceCatalog": "Mock Skills Transformation Catalog",
+      "friGapTags": [
+        "engineering strategy",
+        "role capability",
+        "applied development"
+      ],
+      "requiredEvidence": [
+        {
+          "type": "framework_proposal",
+          "label": "Framework proposal",
+          "required": true
+        },
+        {
+          "type": "adoption_roadmap",
+          "label": "Adoption roadmap",
+          "required": true
+        },
+        {
+          "type": "stakeholder_approval",
+          "label": "Stakeholder approval",
+          "required": true
+        }
+      ],
+      "successCriteria": [
+        "Required evidence is complete and relevant",
+        "Output meets the agreed role and band expectations",
+        "Manager or designated reviewer confirms satisfactory application"
+      ],
+      "managerActions": [
+        "Confirm the activity aligns with the employee development goal",
+        "Assign a reviewer or provide feedback",
+        "Validate the submitted evidence"
+      ],
+      "active": true,
+      "syntheticData": true
+    },
+    {
+      "catalogId": "DEV-VD-B6-01",
+      "title": "Create Accessible Interface Assets",
+      "role": "Visual Designer",
+      "bandLevel": 6,
+      "capability": "Visual Design Foundations",
+      "proficiencyLevel": "Foundational",
+      "activityType": "Project",
+      "description": "A mock development activity for a Band 6 Visual Designer focused on visual design foundations.",
+      "completionWindowWeeks": 2,
+      "deliveryMode": "Workplace Application",
+      "provider": "Internal",
+      "sourceCatalog": "Mock Skills Transformation Catalog",
+      "friGapTags": [
+        "visual design foundations",
+        "role capability",
+        "applied development"
+      ],
+      "requiredEvidence": [
+        {
+          "type": "source_files",
+          "label": "Source files",
+          "required": true
+        },
+        {
+          "type": "exported_assets",
+          "label": "Exported assets",
+          "required": true
+        },
+        {
+          "type": "accessibility_checklist",
+          "label": "Accessibility checklist",
+          "required": true
+        }
+      ],
+      "successCriteria": [
+        "Required evidence is complete and relevant",
+        "Output meets the agreed role and band expectations",
+        "Manager or designated reviewer confirms satisfactory application"
+      ],
+      "managerActions": [
+        "Confirm the activity aligns with the employee development goal",
+        "Assign a reviewer or provide feedback",
+        "Validate the submitted evidence"
+      ],
+      "active": true,
+      "syntheticData": true
+    },
+    {
+      "catalogId": "DEV-VD-B7-01",
+      "title": "Develop a Visual System for a Learning Experience",
+      "role": "Visual Designer",
+      "bandLevel": 7,
+      "capability": "Design-system Application",
+      "proficiencyLevel": "Intermediate",
+      "activityType": "Portfolio Assignment",
+      "description": "A mock development activity for a Band 7 Visual Designer focused on design-system application.",
+      "completionWindowWeeks": 3,
+      "deliveryMode": "Workplace Application",
+      "provider": "Internal",
+      "sourceCatalog": "Mock Skills Transformation Catalog",
+      "friGapTags": [
+        "design-system application",
+        "role capability",
+        "applied development"
+      ],
+      "requiredEvidence": [
+        {
+          "type": "style_guide",
+          "label": "Style guide",
+          "required": true
+        },
+        {
+          "type": "mockups",
+          "label": "Mockups",
+          "required": true
+        },
+        {
+          "type": "design_rationale",
+          "label": "Design rationale",
+          "required": true
+        }
+      ],
+      "successCriteria": [
+        "Required evidence is complete and relevant",
+        "Output meets the agreed role and band expectations",
+        "Manager or designated reviewer confirms satisfactory application"
+      ],
+      "managerActions": [
+        "Confirm the activity aligns with the employee development goal",
+        "Assign a reviewer or provide feedback",
+        "Validate the submitted evidence"
+      ],
+      "active": true,
+      "syntheticData": true
+    },
+    {
+      "catalogId": "DEV-VD-B8-01",
+      "title": "Lead Visual Direction for a Multi-screen Experience",
+      "role": "Visual Designer",
+      "bandLevel": 8,
+      "capability": "Experience Direction",
+      "proficiencyLevel": "Advanced",
+      "activityType": "Live Assignment",
+      "description": "A mock development activity for a Band 8 Visual Designer focused on experience direction.",
+      "completionWindowWeeks": 4,
+      "deliveryMode": "Workplace Application",
+      "provider": "Internal",
+      "sourceCatalog": "Mock Skills Transformation Catalog",
+      "friGapTags": [
+        "experience direction",
+        "role capability",
+        "applied development"
+      ],
+      "requiredEvidence": [
+        {
+          "type": "concept_boards",
+          "label": "Concept boards",
+          "required": true
+        },
+        {
+          "type": "prototypes",
+          "label": "Prototypes",
+          "required": true
+        },
+        {
+          "type": "stakeholder_feedback",
+          "label": "Stakeholder feedback",
+          "required": true
+        }
+      ],
+      "successCriteria": [
+        "Required evidence is complete and relevant",
+        "Output meets the agreed role and band expectations",
+        "Manager or designated reviewer confirms satisfactory application"
+      ],
+      "managerActions": [
+        "Confirm the activity aligns with the employee development goal",
+        "Assign a reviewer or provide feedback",
+        "Validate the submitted evidence"
+      ],
+      "active": true,
+      "syntheticData": true
+    },
+    {
+      "catalogId": "DEV-VD-B9-01",
+      "title": "Establish Design-review Standards and Mentor Designers",
+      "role": "Visual Designer",
+      "bandLevel": 9,
+      "capability": "Design Leadership",
+      "proficiencyLevel": "Leadership",
+      "activityType": "Leadership Assignment",
+      "description": "A mock development activity for a Band 9 Visual Designer focused on design leadership.",
+      "completionWindowWeeks": 6,
+      "deliveryMode": "Workplace Application",
+      "provider": "Internal",
+      "sourceCatalog": "Mock Skills Transformation Catalog",
+      "friGapTags": [
+        "design leadership",
+        "role capability",
+        "applied development"
+      ],
+      "requiredEvidence": [
+        {
+          "type": "review_framework",
+          "label": "Review framework",
+          "required": true
+        },
+        {
+          "type": "mentoring_log",
+          "label": "Mentoring log",
+          "required": true
+        },
+        {
+          "type": "before_and_after_examples",
+          "label": "Before-and-after examples",
+          "required": true
+        }
+      ],
+      "successCriteria": [
+        "Required evidence is complete and relevant",
+        "Output meets the agreed role and band expectations",
+        "Manager or designated reviewer confirms satisfactory application"
+      ],
+      "managerActions": [
+        "Confirm the activity aligns with the employee development goal",
+        "Assign a reviewer or provide feedback",
+        "Validate the submitted evidence"
+      ],
+      "active": true,
+      "syntheticData": true
+    },
+    {
+      "catalogId": "DEV-VD-B10-01",
+      "title": "Define a Scalable Visual-experience Strategy",
+      "role": "Visual Designer",
+      "bandLevel": 10,
+      "capability": "Creative Strategy",
+      "proficiencyLevel": "Strategic",
+      "activityType": "Strategic Assignment",
+      "description": "A mock development activity for a Band 10 Visual Designer focused on creative strategy.",
+      "completionWindowWeeks": 8,
+      "deliveryMode": "Workplace Application",
+      "provider": "Internal",
+      "sourceCatalog": "Mock Skills Transformation Catalog",
+      "friGapTags": [
+        "creative strategy",
+        "role capability",
+        "applied development"
+      ],
+      "requiredEvidence": [
+        {
+          "type": "strategy_document",
+          "label": "Strategy document",
+          "required": true
+        },
+        {
+          "type": "governance_model",
+          "label": "Governance model",
+          "required": true
+        },
+        {
+          "type": "adoption_indicators",
+          "label": "Adoption indicators",
+          "required": true
+        }
+      ],
+      "successCriteria": [
+        "Required evidence is complete and relevant",
+        "Output meets the agreed role and band expectations",
+        "Manager or designated reviewer confirms satisfactory application"
+      ],
+      "managerActions": [
+        "Confirm the activity aligns with the employee development goal",
+        "Assign a reviewer or provide feedback",
+        "Validate the submitted evidence"
+      ],
+      "active": true,
+      "syntheticData": true
+    },
+    {
+      "catalogId": "DEV-ID-B6-01",
+      "title": "Convert a Business Requirement into Learning Objectives",
+      "role": "Instructional Designer",
+      "bandLevel": 6,
+      "capability": "Learning-design Foundations",
+      "proficiencyLevel": "Foundational",
+      "activityType": "Project",
+      "description": "A mock development activity for a Band 6 Instructional Designer focused on learning-design foundations.",
+      "completionWindowWeeks": 2,
+      "deliveryMode": "Workplace Application",
+      "provider": "Internal",
+      "sourceCatalog": "Mock Skills Transformation Catalog",
+      "friGapTags": [
+        "learning-design foundations",
+        "role capability",
+        "applied development"
+      ],
+      "requiredEvidence": [
+        {
+          "type": "design_brief",
+          "label": "Design brief",
+          "required": true
+        },
+        {
+          "type": "learning_objectives",
+          "label": "Learning objectives",
+          "required": true
+        },
+        {
+          "type": "storyboard_excerpt",
+          "label": "Storyboard excerpt",
+          "required": true
+        }
+      ],
+      "successCriteria": [
+        "Required evidence is complete and relevant",
+        "Output meets the agreed role and band expectations",
+        "Manager or designated reviewer confirms satisfactory application"
+      ],
+      "managerActions": [
+        "Confirm the activity aligns with the employee development goal",
+        "Assign a reviewer or provide feedback",
+        "Validate the submitted evidence"
+      ],
+      "active": true,
+      "syntheticData": true
+    },
+    {
+      "catalogId": "DEV-ID-B7-01",
+      "title": "Design a Branching Scenario",
+      "role": "Instructional Designer",
+      "bandLevel": 7,
+      "capability": "Scenario-based Learning",
+      "proficiencyLevel": "Intermediate",
+      "activityType": "Design Assignment",
+      "description": "A mock development activity for a Band 7 Instructional Designer focused on scenario-based learning.",
+      "completionWindowWeeks": 3,
+      "deliveryMode": "Workplace Application",
+      "provider": "Internal",
+      "sourceCatalog": "Mock Skills Transformation Catalog",
+      "friGapTags": [
+        "scenario-based learning",
+        "role capability",
+        "applied development"
+      ],
+      "requiredEvidence": [
+        {
+          "type": "scenario_map",
+          "label": "Scenario map",
+          "required": true
+        },
+        {
+          "type": "storyboard",
+          "label": "Storyboard",
+          "required": true
+        },
+        {
+          "type": "review_feedback",
+          "label": "Review feedback",
+          "required": true
+        }
+      ],
+      "successCriteria": [
+        "Required evidence is complete and relevant",
+        "Output meets the agreed role and band expectations",
+        "Manager or designated reviewer confirms satisfactory application"
+      ],
+      "managerActions": [
+        "Confirm the activity aligns with the employee development goal",
+        "Assign a reviewer or provide feedback",
+        "Validate the submitted evidence"
+      ],
+      "active": true,
+      "syntheticData": true
+    },
+    {
+      "catalogId": "DEV-ID-B8-01",
+      "title": "Design a Blended Learning Pathway",
+      "role": "Instructional Designer",
+      "bandLevel": 8,
+      "capability": "Learning Architecture",
+      "proficiencyLevel": "Advanced",
+      "activityType": "Live Assignment",
+      "description": "A mock development activity for a Band 8 Instructional Designer focused on learning architecture.",
+      "completionWindowWeeks": 4,
+      "deliveryMode": "Workplace Application",
+      "provider": "Internal",
+      "sourceCatalog": "Mock Skills Transformation Catalog",
+      "friGapTags": [
+        "learning architecture",
+        "role capability",
+        "applied development"
+      ],
+      "requiredEvidence": [
+        {
+          "type": "audience_analysis",
+          "label": "Audience analysis",
+          "required": true
+        },
+        {
+          "type": "learning_pathway",
+          "label": "Learning pathway",
+          "required": true
+        },
+        {
+          "type": "measurement_plan",
+          "label": "Measurement plan",
+          "required": true
+        }
+      ],
+      "successCriteria": [
+        "Required evidence is complete and relevant",
+        "Output meets the agreed role and band expectations",
+        "Manager or designated reviewer confirms satisfactory application"
+      ],
+      "managerActions": [
+        "Confirm the activity aligns with the employee development goal",
+        "Assign a reviewer or provide feedback",
+        "Validate the submitted evidence"
+      ],
+      "active": true,
+      "syntheticData": true
+    },
+    {
+      "catalogId": "DEV-ID-B9-01",
+      "title": "Lead a Performance-based Redesign",
+      "role": "Instructional Designer",
+      "bandLevel": 9,
+      "capability": "Learning Strategy",
+      "proficiencyLevel": "Leadership",
+      "activityType": "Leadership Assignment",
+      "description": "A mock development activity for a Band 9 Instructional Designer focused on learning strategy.",
+      "completionWindowWeeks": 6,
+      "deliveryMode": "Workplace Application",
+      "provider": "Internal",
+      "sourceCatalog": "Mock Skills Transformation Catalog",
+      "friGapTags": [
+        "learning strategy",
+        "role capability",
+        "applied development"
+      ],
+      "requiredEvidence": [
+        {
+          "type": "needs_analysis",
+          "label": "Needs analysis",
+          "required": true
+        },
+        {
+          "type": "redesign_plan",
+          "label": "Redesign plan",
+          "required": true
+        },
+        {
+          "type": "effectiveness_indicators",
+          "label": "Effectiveness indicators",
+          "required": true
+        }
+      ],
+      "successCriteria": [
+        "Required evidence is complete and relevant",
+        "Output meets the agreed role and band expectations",
+        "Manager or designated reviewer confirms satisfactory application"
+      ],
+      "managerActions": [
+        "Confirm the activity aligns with the employee development goal",
+        "Assign a reviewer or provide feedback",
+        "Validate the submitted evidence"
+      ],
+      "active": true,
+      "syntheticData": true
+    },
+    {
+      "catalogId": "DEV-ID-B10-01",
+      "title": "Establish a Learning-transformation Strategy",
+      "role": "Instructional Designer",
+      "bandLevel": 10,
+      "capability": "Portfolio Transformation",
+      "proficiencyLevel": "Strategic",
+      "activityType": "Strategic Assignment",
+      "description": "A mock development activity for a Band 10 Instructional Designer focused on portfolio transformation.",
+      "completionWindowWeeks": 8,
+      "deliveryMode": "Workplace Application",
+      "provider": "Internal",
+      "sourceCatalog": "Mock Skills Transformation Catalog",
+      "friGapTags": [
+        "portfolio transformation",
+        "role capability",
+        "applied development"
+      ],
+      "requiredEvidence": [
+        {
+          "type": "portfolio_strategy",
+          "label": "Portfolio strategy",
+          "required": true
+        },
+        {
+          "type": "prioritization_model",
+          "label": "Prioritization model",
+          "required": true
+        },
+        {
+          "type": "executive_presentation",
+          "label": "Executive presentation",
+          "required": true
+        }
+      ],
+      "successCriteria": [
+        "Required evidence is complete and relevant",
+        "Output meets the agreed role and band expectations",
+        "Manager or designated reviewer confirms satisfactory application"
+      ],
+      "managerActions": [
+        "Confirm the activity aligns with the employee development goal",
+        "Assign a reviewer or provide feedback",
+        "Validate the submitted evidence"
+      ],
+      "active": true,
+      "syntheticData": true
+    },
+    {
+      "catalogId": "DEV-MG-B6-01",
+      "title": "Run Structured Planning and Retrospective Sessions",
+      "role": "Manager",
+      "bandLevel": 6,
+      "capability": "Team Coordination",
+      "proficiencyLevel": "Foundational",
+      "activityType": "Workplace Practice",
+      "description": "A mock development activity for a Band 6 Manager focused on team coordination.",
+      "completionWindowWeeks": 3,
+      "deliveryMode": "Workplace Application",
+      "provider": "Internal",
+      "sourceCatalog": "Mock Skills Transformation Catalog",
+      "friGapTags": [
+        "team coordination",
+        "role capability",
+        "applied development"
+      ],
+      "requiredEvidence": [
+        {
+          "type": "meeting_notes",
+          "label": "Meeting notes",
+          "required": true
+        },
+        {
+          "type": "action_tracker",
+          "label": "Action tracker",
+          "required": true
+        },
+        {
+          "type": "team_feedback",
+          "label": "Team feedback",
+          "required": true
+        }
+      ],
+      "successCriteria": [
+        "Required evidence is complete and relevant",
+        "Output meets the agreed role and band expectations",
+        "Manager or designated reviewer confirms satisfactory application"
+      ],
+      "managerActions": [
+        "Confirm the activity aligns with the employee development goal",
+        "Assign a reviewer or provide feedback",
+        "Validate the submitted evidence"
+      ],
+      "active": true,
+      "syntheticData": true
+    },
+    {
+      "catalogId": "DEV-MG-B7-01",
+      "title": "Conduct Structured Development Conversations",
+      "role": "Manager",
+      "bandLevel": 7,
+      "capability": "Coaching and Feedback",
+      "proficiencyLevel": "Intermediate",
+      "activityType": "Coaching Practice",
+      "description": "A mock development activity for a Band 7 Manager focused on coaching and feedback.",
+      "completionWindowWeeks": 4,
+      "deliveryMode": "Workplace Application",
+      "provider": "Internal",
+      "sourceCatalog": "Mock Skills Transformation Catalog",
+      "friGapTags": [
+        "coaching and feedback",
+        "role capability",
+        "applied development"
+      ],
+      "requiredEvidence": [
+        {
+          "type": "coaching_plans",
+          "label": "Coaching plans",
+          "required": true
+        },
+        {
+          "type": "reflection_notes",
+          "label": "Reflection notes",
+          "required": true
+        },
+        {
+          "type": "anonymized_feedback",
+          "label": "Anonymized feedback",
+          "required": true
+        }
+      ],
+      "successCriteria": [
+        "Required evidence is complete and relevant",
+        "Output meets the agreed role and band expectations",
+        "Manager or designated reviewer confirms satisfactory application"
+      ],
+      "managerActions": [
+        "Confirm the activity aligns with the employee development goal",
+        "Assign a reviewer or provide feedback",
+        "Validate the submitted evidence"
+      ],
+      "active": true,
+      "syntheticData": true
+    },
+    {
+      "catalogId": "DEV-MG-B8-01",
+      "title": "Create Capability-development Plans",
+      "role": "Manager",
+      "bandLevel": 8,
+      "capability": "Performance Enablement",
+      "proficiencyLevel": "Advanced",
+      "activityType": "Management Assignment",
+      "description": "A mock development activity for a Band 8 Manager focused on performance enablement.",
+      "completionWindowWeeks": 4,
+      "deliveryMode": "Workplace Application",
+      "provider": "Internal",
+      "sourceCatalog": "Mock Skills Transformation Catalog",
+      "friGapTags": [
+        "performance enablement",
+        "role capability",
+        "applied development"
+      ],
+      "requiredEvidence": [
+        {
+          "type": "development_plans",
+          "label": "Development plans",
+          "required": true
+        },
+        {
+          "type": "agreed_actions",
+          "label": "Agreed actions",
+          "required": true
+        },
+        {
+          "type": "follow_up_record",
+          "label": "Follow-up record",
+          "required": true
+        }
+      ],
+      "successCriteria": [
+        "Required evidence is complete and relevant",
+        "Output meets the agreed role and band expectations",
+        "Manager or designated reviewer confirms satisfactory application"
+      ],
+      "managerActions": [
+        "Confirm the activity aligns with the employee development goal",
+        "Assign a reviewer or provide feedback",
+        "Validate the submitted evidence"
+      ],
+      "active": true,
+      "syntheticData": true
+    },
+    {
+      "catalogId": "DEV-MG-B9-01",
+      "title": "Lead a Cross-functional Capability Initiative",
+      "role": "Manager",
+      "bandLevel": 9,
+      "capability": "Organizational Leadership",
+      "proficiencyLevel": "Leadership",
+      "activityType": "Leadership Assignment",
+      "description": "A mock development activity for a Band 9 Manager focused on organizational leadership.",
+      "completionWindowWeeks": 8,
+      "deliveryMode": "Workplace Application",
+      "provider": "Internal",
+      "sourceCatalog": "Mock Skills Transformation Catalog",
+      "friGapTags": [
+        "organizational leadership",
+        "role capability",
+        "applied development"
+      ],
+      "requiredEvidence": [
+        {
+          "type": "initiative_charter",
+          "label": "Initiative charter",
+          "required": true
+        },
+        {
+          "type": "progress_metrics",
+          "label": "Progress metrics",
+          "required": true
+        },
+        {
+          "type": "stakeholder_feedback",
+          "label": "Stakeholder feedback",
+          "required": true
+        }
+      ],
+      "successCriteria": [
+        "Required evidence is complete and relevant",
+        "Output meets the agreed role and band expectations",
+        "Manager or designated reviewer confirms satisfactory application"
+      ],
+      "managerActions": [
+        "Confirm the activity aligns with the employee development goal",
+        "Assign a reviewer or provide feedback",
+        "Validate the submitted evidence"
+      ],
+      "active": true,
+      "syntheticData": true
+    },
+    {
+      "catalogId": "DEV-MG-B10-01",
+      "title": "Define a Skills-transformation and Succession Strategy",
+      "role": "Manager",
+      "bandLevel": 10,
+      "capability": "Workforce Strategy",
+      "proficiencyLevel": "Strategic",
+      "activityType": "Strategic Assignment",
+      "description": "A mock development activity for a Band 10 Manager focused on workforce strategy.",
+      "completionWindowWeeks": 10,
+      "deliveryMode": "Workplace Application",
+      "provider": "Internal",
+      "sourceCatalog": "Mock Skills Transformation Catalog",
+      "friGapTags": [
+        "workforce strategy",
+        "role capability",
+        "applied development"
+      ],
+      "requiredEvidence": [
+        {
+          "type": "workforce_plan",
+          "label": "Workforce plan",
+          "required": true
+        },
+        {
+          "type": "skills_heat_map",
+          "label": "Skills heat map",
+          "required": true
+        },
+        {
+          "type": "leadership_approval",
+          "label": "Leadership approval",
+          "required": true
+        }
+      ],
+      "successCriteria": [
+        "Required evidence is complete and relevant",
+        "Output meets the agreed role and band expectations",
+        "Manager or designated reviewer confirms satisfactory application"
+      ],
+      "managerActions": [
+        "Confirm the activity aligns with the employee development goal",
+        "Assign a reviewer or provide feedback",
+        "Validate the submitted evidence"
+      ],
+      "active": true,
+      "syntheticData": true
+    },
+    {
+      "catalogId": "DEV-AD-B6-01",
+      "title": "Build a Secure CRUD Application",
+      "role": "Application Developer",
+      "bandLevel": 6,
+      "capability": "Application Foundations",
+      "proficiencyLevel": "Foundational",
+      "activityType": "Project",
+      "description": "A mock development activity for a Band 6 Application Developer focused on application foundations.",
+      "completionWindowWeeks": 3,
+      "deliveryMode": "Workplace Application",
+      "provider": "Internal",
+      "sourceCatalog": "Mock Skills Transformation Catalog",
+      "friGapTags": [
+        "application foundations",
+        "role capability",
+        "applied development"
+      ],
+      "requiredEvidence": [
+        {
+          "type": "repository",
+          "label": "Repository",
+          "required": true
+        },
+        {
+          "type": "test_report",
+          "label": "Test report",
+          "required": true
+        },
+        {
+          "type": "security_checklist",
+          "label": "Security checklist",
+          "required": true
+        }
+      ],
+      "successCriteria": [
+        "Required evidence is complete and relevant",
+        "Output meets the agreed role and band expectations",
+        "Manager or designated reviewer confirms satisfactory application"
+      ],
+      "managerActions": [
+        "Confirm the activity aligns with the employee development goal",
+        "Assign a reviewer or provide feedback",
+        "Validate the submitted evidence"
+      ],
+      "active": true,
+      "syntheticData": true
+    },
+    {
+      "catalogId": "DEV-AD-B7-01",
+      "title": "Develop and Document an API Integration",
+      "role": "Application Developer",
+      "bandLevel": 7,
+      "capability": "API Integration",
+      "proficiencyLevel": "Intermediate",
+      "activityType": "Technical Assignment",
+      "description": "A mock development activity for a Band 7 Application Developer focused on api integration.",
+      "completionWindowWeeks": 3,
+      "deliveryMode": "Workplace Application",
+      "provider": "Internal",
+      "sourceCatalog": "Mock Skills Transformation Catalog",
+      "friGapTags": [
+        "api integration",
+        "role capability",
+        "applied development"
+      ],
+      "requiredEvidence": [
+        {
+          "type": "api_specification",
+          "label": "API specification",
+          "required": true
+        },
+        {
+          "type": "source_code",
+          "label": "Source code",
+          "required": true
+        },
+        {
+          "type": "integration_test_results",
+          "label": "Integration test results",
+          "required": true
+        }
+      ],
+      "successCriteria": [
+        "Required evidence is complete and relevant",
+        "Output meets the agreed role and band expectations",
+        "Manager or designated reviewer confirms satisfactory application"
+      ],
+      "managerActions": [
+        "Confirm the activity aligns with the employee development goal",
+        "Assign a reviewer or provide feedback",
+        "Validate the submitted evidence"
+      ],
+      "active": true,
+      "syntheticData": true
+    },
+    {
+      "catalogId": "DEV-AD-B8-01",
+      "title": "Design a Scalable Application Architecture",
+      "role": "Application Developer",
+      "bandLevel": 8,
+      "capability": "Solution Architecture",
+      "proficiencyLevel": "Advanced",
+      "activityType": "Live Assignment",
+      "description": "A mock development activity for a Band 8 Application Developer focused on solution architecture.",
+      "completionWindowWeeks": 5,
+      "deliveryMode": "Workplace Application",
+      "provider": "Internal",
+      "sourceCatalog": "Mock Skills Transformation Catalog",
+      "friGapTags": [
+        "solution architecture",
+        "role capability",
+        "applied development"
+      ],
+      "requiredEvidence": [
+        {
+          "type": "architecture_diagram",
+          "label": "Architecture diagram",
+          "required": true
+        },
+        {
+          "type": "trade_off_analysis",
+          "label": "Trade-off analysis",
+          "required": true
+        },
+        {
+          "type": "review_approval",
+          "label": "Review approval",
+          "required": true
+        }
+      ],
+      "successCriteria": [
+        "Required evidence is complete and relevant",
+        "Output meets the agreed role and band expectations",
+        "Manager or designated reviewer confirms satisfactory application"
+      ],
+      "managerActions": [
+        "Confirm the activity aligns with the employee development goal",
+        "Assign a reviewer or provide feedback",
+        "Validate the submitted evidence"
+      ],
+      "active": true,
+      "syntheticData": true
+    },
+    {
+      "catalogId": "DEV-AD-B9-01",
+      "title": "Lead Modernization of a Legacy Component",
+      "role": "Application Developer",
+      "bandLevel": 9,
+      "capability": "Technical Leadership",
+      "proficiencyLevel": "Leadership",
+      "activityType": "Leadership Assignment",
+      "description": "A mock development activity for a Band 9 Application Developer focused on technical leadership.",
+      "completionWindowWeeks": 8,
+      "deliveryMode": "Workplace Application",
+      "provider": "Internal",
+      "sourceCatalog": "Mock Skills Transformation Catalog",
+      "friGapTags": [
+        "technical leadership",
+        "role capability",
+        "applied development"
+      ],
+      "requiredEvidence": [
+        {
+          "type": "modernization_plan",
+          "label": "Modernization plan",
+          "required": true
+        },
+        {
+          "type": "implementation_metrics",
+          "label": "Implementation metrics",
+          "required": true
+        },
+        {
+          "type": "risk_log",
+          "label": "Risk log",
+          "required": true
+        }
+      ],
+      "successCriteria": [
+        "Required evidence is complete and relevant",
+        "Output meets the agreed role and band expectations",
+        "Manager or designated reviewer confirms satisfactory application"
+      ],
+      "managerActions": [
+        "Confirm the activity aligns with the employee development goal",
+        "Assign a reviewer or provide feedback",
+        "Validate the submitted evidence"
+      ],
+      "active": true,
+      "syntheticData": true
+    },
+    {
+      "catalogId": "DEV-AD-B10-01",
+      "title": "Establish an Application Modernization Roadmap",
+      "role": "Application Developer",
+      "bandLevel": 10,
+      "capability": "Platform Strategy",
+      "proficiencyLevel": "Strategic",
+      "activityType": "Strategic Assignment",
+      "description": "A mock development activity for a Band 10 Application Developer focused on platform strategy.",
+      "completionWindowWeeks": 10,
+      "deliveryMode": "Workplace Application",
+      "provider": "Internal",
+      "sourceCatalog": "Mock Skills Transformation Catalog",
+      "friGapTags": [
+        "platform strategy",
+        "role capability",
+        "applied development"
+      ],
+      "requiredEvidence": [
+        {
+          "type": "roadmap",
+          "label": "Roadmap",
+          "required": true
+        },
+        {
+          "type": "target_architecture",
+          "label": "Target architecture",
+          "required": true
+        },
+        {
+          "type": "cost_and_risk_analysis",
+          "label": "Cost and risk analysis",
+          "required": true
+        }
+      ],
+      "successCriteria": [
+        "Required evidence is complete and relevant",
+        "Output meets the agreed role and band expectations",
+        "Manager or designated reviewer confirms satisfactory application"
+      ],
+      "managerActions": [
+        "Confirm the activity aligns with the employee development goal",
+        "Assign a reviewer or provide feedback",
+        "Validate the submitted evidence"
+      ],
+      "active": true,
+      "syntheticData": true
+    }
+  ]
+}
